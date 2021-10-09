@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.411" height="35.411" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9d45f;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_10" data-name="椭圆 10" class="cls-1" cx="32" cy="32" r="32"/>
+  <style>
+  .椭圆_10 {
+  border-radius: 50%;
+  background-color: rgb(249, 212, 95);
+  position: absolute;
+  left: 1525px;
+  top: 1559px;
+  width: 64px;
+  height: 64px;
+  z-index: 135;
+  }
+  </style>
+</svg>
